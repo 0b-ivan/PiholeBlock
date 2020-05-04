@@ -2858,3 +2858,9 @@ ns1.edgecastcdn.net
 #blacklistImport
 www.bfdi.bund.de
 netzpolitik.org
+ctldl.windowsupdate.com
+ocsp.digicert.com
+oneclient.sfx.ms
+outlook.office365.com
+todo-ta-g7g.amazon.com
+www.bing.com
